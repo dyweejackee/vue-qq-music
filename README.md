@@ -36,8 +36,8 @@ Build Setup
 * 切换播放模式<br>
 * 播放列表更新，首页提示<br>
  
-项目总结
--------
+## 项目总结
+
 * 还有收藏功能、排行榜页面、歌手页面、歌词功能还未完成<br>
 * museui在样式方面做的还是有所欠缺，有些欠缺的地方只能靠逻辑代码完成<br>
 * swiper新版本有些功能还存些许问题，此项目用的2.6.7版本<br>
@@ -45,12 +45,12 @@ Build Setup
 * 后面版本将改用velocity或者create-keyframe-animation重写动画部份<br>
 
 ## ABOUT
--------
+
 * 源码：[GitHub](https://github.com/dyweejackee/vue-qq-music/edit/master "vue-qq-music")  
 * GitHub: [GitHub](https://github.com/dyweejackee)
 
 ## 项目预览
--------
+
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF.gif)
 
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF2.gif)
