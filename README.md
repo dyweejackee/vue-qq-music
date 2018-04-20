@@ -45,7 +45,6 @@ Build Setup
  
 项目预览
 -------
-![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/face.png)
 
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF.gif)
 
