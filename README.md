@@ -43,9 +43,8 @@ Build Setup
 * 项目中迷你播放器左右滑动，写的功能逻辑还需改善，目前当歌曲添加过多时，会有卡顿感，是由于逻辑中通过遍历加入了太多swiper滑块，这块功能在后面的版本将会重写<br>
 * 后面版本将改用velocity或者create-keyframe-animation重写动画部份<br>
  
-项目预览
+## 项目预览
 -------
-
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF.gif)
 
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF2.gif)
