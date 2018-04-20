@@ -12,3 +12,5 @@ better-scroll<br>
 good-storage<br>
 lodash<br>
 muse-ui<br>
+sass(scss)<br>
+es6<br>
