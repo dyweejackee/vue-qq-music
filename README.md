@@ -1,5 +1,6 @@
 VueJs音乐播放器
 =======
+功能和样式布局借鉴了QQ音乐App
 
 技术栈
 -------
@@ -42,7 +43,12 @@ Build Setup
 * swiper新版本有些功能还存些许问题，此项目用的2.6.7版本<br>
 * 项目中迷你播放器左右滑动，写的功能逻辑还需改善，目前当歌曲添加过多时，会有卡顿感，是由于逻辑中通过遍历加入了太多swiper滑块，这块功能在后面的版本将会重写<br>
 * 后面版本将改用velocity或者create-keyframe-animation重写动画部份<br>
- 
+
+## ABOUT
+-------
+* 源码：[GitHub](https://github.com/dyweejackee/vue-qq-music/edit/master "vue-qq-music")  
+* GitHub: [GitHub](https://github.com/dyweejackee)
+
 ## 项目预览
 -------
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF.gif)
