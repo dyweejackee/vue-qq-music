@@ -29,5 +29,3 @@ es6<br>
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF4.gif)
 
 ![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF5.gif)
-
-![图片加载失败](https://github.com/dyweejackee/vue-qq-music/raw/master/Screenshots/GIF6.gif)
