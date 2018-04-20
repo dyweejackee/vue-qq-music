@@ -47,7 +47,7 @@ Build Setup
 ## ABOUT
 
 * 源码：[GitHub](https://github.com/dyweejackee/vue-qq-music/edit/master "vue-qq-music")  
-* GitHub: [GitHub](https://github.com/dyweejackee)
+* GitHub:  [dyweejackee](https://github.com/dyweejackee)
 
 ## 项目预览
 
