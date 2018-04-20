@@ -1,4 +1,14 @@
 VueJs音乐播放器
 =======
-技术 
+技术栈
 -------
+###Vue2
+###Vuex
+###vue-router
+###vue-resource
+###vue-lazyload
+###vue-awesome-swiper
+###better-scroll
+###good-storage
+###lodash
+###muse-ui
